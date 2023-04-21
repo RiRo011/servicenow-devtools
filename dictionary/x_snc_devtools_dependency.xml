@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="Dependency" max_length="40" name="x_snc_devtools_dependency" sizeclass="5" type="collection">
+    <element attributes="update_synch=true" db_object_id="98f2f0d61bdae1100df38557cc4bcb32" extends="sys_metadata" label="Dependency" max_length="40" name="x_snc_devtools_dependency" type="collection">
         <element label="Dependency" mandatory="true" max_length="32" name="dependency" reference="sys_package" type="reference"/>
         <element label="Documentation" max_length="1024" name="documentation_url" type="url"/>
         <element label="Name" max_length="100" name="name" type="string"/>

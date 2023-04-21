@@ -38,7 +38,7 @@
     </scan_table_check>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="DevTools WORK IN PROGRESS">d689f6901bd38450a89720a8ec4bcbfd</application>
+        <application display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</application>
         <file_path/>
         <instance_id>f492329ddb5849108aea21c405961946</instance_id>
         <instance_name>wildgrubedevquebec</instance_name>
@@ -66,7 +66,7 @@
         <update_guid_history>db7fd6f408c8951081971e3738a02244:828544158</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="CodeSanity - UI Actions without comments">4f00ee78dbc89510b652edb30596198d</sys_audit_delete>
+        <sys_audit_delete display_value="">4f00ee78dbc89510b652edb30596198d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-10 11:28:55</sys_created_on>
@@ -75,10 +75,10 @@
         <sys_metadata>89ee1eb4dbc89510b652edb3059619e3</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CodeSanity - UI Actions without comments</sys_name>
-        <sys_package display_value="DevTools WORK IN PROGRESS" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
+        <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_parent/>
         <sys_policy/>
-        <sys_scope display_value="DevTools WORK IN PROGRESS">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
+        <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_scope_delete display_value="">00add56a207e4bf3800cdb72bd156af9</sys_scope_delete>
         <sys_update_name>scan_table_check_89ee1eb4dbc89510b652edb3059619e3</sys_update_name>
         <sys_update_version display_value="scan_table_check_89ee1eb4dbc89510b652edb3059619e3">937fd6f4dbc89510b652edb305961945</sys_update_version>

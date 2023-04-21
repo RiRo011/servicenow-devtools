@@ -9,7 +9,6 @@
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Technical Dept</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -18,19 +17,17 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Application File" name="sys_metadata">de3332331b1201103297fd9b8b4bcb86</super_class>
-        <sys_class_code/>
+        <super_class display_value="Application File" name="sys_metadata">98a80302c51021108c8b506e733c4c8a</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-06 17:04:38</sys_created_on>
-        <sys_id>4b7081231b1d61105b76777d8b4bcb9b</sys_id>
+        <sys_id>28f2f0d61bdae1100df38557cc4bcb80</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Technical Dept</sys_name>
-        <sys_package display_value="DevTools WORK IN PROGRESS" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
+        <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DevTools WORK IN PROGRESS">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
-        <sys_update_name>sys_db_object_4b7081231b1d61105b76777d8b4bcb9b</sys_update_name>
+        <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
+        <sys_update_name>sys_db_object_28f2f0d61bdae1100df38557cc4bcb80</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-03-06 17:04:38</sys_updated_on>
         <update_access>false</update_access>

@@ -31,13 +31,13 @@
         <source>3981b71097022110a6a07767f053aff5</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-03 10:24:42</sys_created_on>
         <sys_id>e27de2359702a510a6a07767f053aff4</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>18746a5c6100000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-21 11:58:57</sys_updated_on>
         <type>Test Suite Test</type>
         <update_guid>a27de2354602a510949e4ef2f86eabf4</update_guid>
         <update_guid_history>a27de2354602a510949e4ef2f86eabf4:747681407</update_guid_history>
